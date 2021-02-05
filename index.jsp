@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Sebas Register Form</title>
+<title>Register Form</title>
 </head>
 <body>
 <h1>Sebas Register Form</h1>
