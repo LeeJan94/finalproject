@@ -7,7 +7,7 @@
 <title>Register Form</title>
 </head>
 <body>
-<h1>register Form</h1>
+<h1>ziv Form</h1>
 
 <style>
 	#customers {
